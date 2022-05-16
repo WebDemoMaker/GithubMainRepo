@@ -1,0 +1,3 @@
+[submodule "GithubSubmodule"]
+	path = GithubSubmodule
+	url = git@github.com:WebDemoMaker/GithubSubmodule.git
